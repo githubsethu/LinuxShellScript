@@ -1,0 +1,12 @@
+vboxuser@ubuntu:~/project/LinuxShellScript$ vi helloworld.sh
+vboxuser@ubuntu:~/project/LinuxShellScript$ chmod a+x helloword.sh
+chmod: cannot access 'helloword.sh': No such file or directory
+vboxuser@ubuntu:~/project/LinuxShellScript$ chmod a+x helloworld.sh
+vboxuser@ubuntu:~/project/LinuxShellScript$ bash helloworld.sh
+hello world
+vboxuser@ubuntu:~/project/LinuxShellScript$ ./hellowworld.sh
+bash: ./hellowworld.sh: No such file or directory
+vboxuser@ubuntu:~/project/LinuxShellScript$ ./helloworld.sh
+hello world
+vboxuser@ubuntu:~/project/LinuxShellScript$ 
+
