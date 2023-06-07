@@ -1,0 +1,4 @@
+Printing text
+Printing text without newline
+Removing 	 special 	 characters
+
