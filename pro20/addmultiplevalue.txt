@@ -1,0 +1,2 @@
+Enter Your Number:Enter Your Number:Enter Your Number:Enter Your Number:
+Result is: 17

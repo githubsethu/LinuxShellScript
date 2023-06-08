@@ -1,0 +1,3 @@
+Total arguments : 2
+First Argument = sethu
+Second Argument = raman
